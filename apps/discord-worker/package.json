@@ -13,7 +13,7 @@
     "gabi-prompt:sync": "node ../../scripts/sync-gabi-prompt.mjs"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.115.0",
+    "@anthropic-ai/sdk": "^1.6.0",
     "@platform/estate-auth": "*",
     "@platform/firebase-sa": "*",
     "@platform/gabi-conversation": "*",
